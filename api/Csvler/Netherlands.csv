@@ -1,0 +1,305 @@
+Entity,Code,Year,Population
+Netherlands,NLD,100,204059
+Netherlands,NLD,200,194342
+Netherlands,NLD,300,185087
+Netherlands,NLD,400,176273
+Netherlands,NLD,500,167879
+Netherlands,NLD,600,159885
+Netherlands,NLD,700,152271
+Netherlands,NLD,800,258084
+Netherlands,NLD,900,335465
+Netherlands,NLD,1000,369012
+Netherlands,NLD,1100,442815
+Netherlands,NLD,1200,498167
+Netherlands,NLD,1300,881372
+Netherlands,NLD,1400,629551
+Netherlands,NLD,1500,1086368
+Netherlands,NLD,1600,1543184
+Netherlands,NLD,1700,2000000
+Netherlands,NLD,1710,2032668
+Netherlands,NLD,1720,2065333
+Netherlands,NLD,1730,2098000
+Netherlands,NLD,1740,2130666
+Netherlands,NLD,1750,2163334
+Netherlands,NLD,1760,2196000
+Netherlands,NLD,1770,2228666
+Netherlands,NLD,1780,2261332
+Netherlands,NLD,1790,2294000
+Netherlands,NLD,1800,2000000
+Netherlands,NLD,1801,2004651
+Netherlands,NLD,1802,2009313
+Netherlands,NLD,1803,2013986
+Netherlands,NLD,1804,2018669
+Netherlands,NLD,1805,2023364
+Netherlands,NLD,1806,2028069
+Netherlands,NLD,1807,2032785
+Netherlands,NLD,1808,2037512
+Netherlands,NLD,1809,2042251
+Netherlands,NLD,1810,2060391
+Netherlands,NLD,1811,2078671
+Netherlands,NLD,1812,2101607
+Netherlands,NLD,1813,2129272
+Netherlands,NLD,1814,2157302
+Netherlands,NLD,1815,2185700
+Netherlands,NLD,1816,2214472
+Netherlands,NLD,1817,2243623
+Netherlands,NLD,1818,2273158
+Netherlands,NLD,1819,2302618
+Netherlands,NLD,1820,2331997
+Netherlands,NLD,1821,2361287
+Netherlands,NLD,1822,2390482
+Netherlands,NLD,1823,2419575
+Netherlands,NLD,1824,2449022
+Netherlands,NLD,1825,2478828
+Netherlands,NLD,1826,2508996
+Netherlands,NLD,1827,2539531
+Netherlands,NLD,1828,2570438
+Netherlands,NLD,1829,2600166
+Netherlands,NLD,1830,2628686
+Netherlands,NLD,1831,2655969
+Netherlands,NLD,1832,2681986
+Netherlands,NLD,1833,2706706
+Netherlands,NLD,1834,2731653
+Netherlands,NLD,1835,2756831
+Netherlands,NLD,1836,2782241
+Netherlands,NLD,1837,2807885
+Netherlands,NLD,1838,2833765
+Netherlands,NLD,1839,2858669
+Netherlands,NLD,1840,2882581
+Netherlands,NLD,1841,2905482
+Netherlands,NLD,1842,2927353
+Netherlands,NLD,1843,2948178
+Netherlands,NLD,1844,2969150
+Netherlands,NLD,1845,2990272
+Netherlands,NLD,1846,3011544
+Netherlands,NLD,1847,3032967
+Netherlands,NLD,1848,3054543
+Netherlands,NLD,1849,3076130
+Netherlands,NLD,1850,3097727
+Netherlands,NLD,1851,3119242
+Netherlands,NLD,1852,3140764
+Netherlands,NLD,1853,3162293
+Netherlands,NLD,1854,3183969
+Netherlands,NLD,1855,3205794
+Netherlands,NLD,1856,3227769
+Netherlands,NLD,1857,3249894
+Netherlands,NLD,1858,3272170
+Netherlands,NLD,1859,3295652
+Netherlands,NLD,1860,3320356
+Netherlands,NLD,1861,3346299
+Netherlands,NLD,1862,3373499
+Netherlands,NLD,1863,3401973
+Netherlands,NLD,1864,3430688
+Netherlands,NLD,1865,3459645
+Netherlands,NLD,1866,3488847
+Netherlands,NLD,1867,3518295
+Netherlands,NLD,1868,3547992
+Netherlands,NLD,1869,3580048
+Netherlands,NLD,1870,3614507
+Netherlands,NLD,1871,3651413
+Netherlands,NLD,1872,3690812
+Netherlands,NLD,1873,3732749
+Netherlands,NLD,1874,3775163
+Netherlands,NLD,1875,3818059
+Netherlands,NLD,1876,3861442
+Netherlands,NLD,1877,3905319
+Netherlands,NLD,1878,3949693
+Netherlands,NLD,1879,3994700
+Netherlands,NLD,1880,4040346
+Netherlands,NLD,1881,4086642
+Netherlands,NLD,1882,4133595
+Netherlands,NLD,1883,4181215
+Netherlands,NLD,1884,4229384
+Netherlands,NLD,1885,4278108
+Netherlands,NLD,1886,4327393
+Netherlands,NLD,1887,4377246
+Netherlands,NLD,1888,4427673
+Netherlands,NLD,1889,4479670
+Netherlands,NLD,1890,4533266
+Netherlands,NLD,1891,4588493
+Netherlands,NLD,1892,4645382
+Netherlands,NLD,1893,4703966
+Netherlands,NLD,1894,4763289
+Netherlands,NLD,1895,4823360
+Netherlands,NLD,1896,4884188
+Netherlands,NLD,1897,4945783
+Netherlands,NLD,1898,5008156
+Netherlands,NLD,1899,5072940
+Netherlands,NLD,1900,5140189
+Netherlands,NLD,1901,5209957
+Netherlands,NLD,1902,5282301
+Netherlands,NLD,1903,5357276
+Netherlands,NLD,1904,5433315
+Netherlands,NLD,1905,5510433
+Netherlands,NLD,1906,5588646
+Netherlands,NLD,1907,5667969
+Netherlands,NLD,1908,5748418
+Netherlands,NLD,1909,5830495
+Netherlands,NLD,1910,5914229
+Netherlands,NLD,1911,5999652
+Netherlands,NLD,1912,6086795
+Netherlands,NLD,1913,6175690
+Netherlands,NLD,1914,6265882
+Netherlands,NLD,1915,6357392
+Netherlands,NLD,1916,6450239
+Netherlands,NLD,1917,6544441
+Netherlands,NLD,1918,6640214
+Netherlands,NLD,1919,6736779
+Netherlands,NLD,1920,6834137
+Netherlands,NLD,1921,6932291
+Netherlands,NLD,1922,7031246
+Netherlands,NLD,1923,7131002
+Netherlands,NLD,1924,7232174
+Netherlands,NLD,1925,7334781
+Netherlands,NLD,1926,7438843
+Netherlands,NLD,1927,7544382
+Netherlands,NLD,1928,7651419
+Netherlands,NLD,1929,7756463
+Netherlands,NLD,1930,7859443
+Netherlands,NLD,1931,7960289
+Netherlands,NLD,1932,8058927
+Netherlands,NLD,1933,8155281
+Netherlands,NLD,1934,8252788
+Netherlands,NLD,1935,8351461
+Netherlands,NLD,1936,8451313
+Netherlands,NLD,1937,8552359
+Netherlands,NLD,1938,8654613
+Netherlands,NLD,1939,8760124
+Netherlands,NLD,1940,8868956
+Netherlands,NLD,1941,8981176
+Netherlands,NLD,1942,9096853
+Netherlands,NLD,1943,9216054
+Netherlands,NLD,1944,9336818
+Netherlands,NLD,1945,9459164
+Netherlands,NLD,1946,9583114
+Netherlands,NLD,1947,9708687
+Netherlands,NLD,1948,9835906
+Netherlands,NLD,1949,9964193
+Netherlands,NLD,1950,10093555
+Netherlands,NLD,1951,10226297
+Netherlands,NLD,1952,10361806
+Netherlands,NLD,1953,10497301
+Netherlands,NLD,1954,10631384
+Netherlands,NLD,1955,10767911
+Netherlands,NLD,1956,10905351
+Netherlands,NLD,1957,11046127
+Netherlands,NLD,1958,11191758
+Netherlands,NLD,1959,11341766
+Netherlands,NLD,1960,11493124
+Netherlands,NLD,1961,11647374
+Netherlands,NLD,1962,11803461
+Netherlands,NLD,1963,11958417
+Netherlands,NLD,1964,12117832
+Netherlands,NLD,1965,12275797
+Netherlands,NLD,1966,12426790
+Netherlands,NLD,1967,12576971
+Netherlands,NLD,1968,12727200
+Netherlands,NLD,1969,12881251
+Netherlands,NLD,1970,13037686
+Netherlands,NLD,1971,13186716
+Netherlands,NLD,1972,13324182
+Netherlands,NLD,1973,13447575
+Netherlands,NLD,1974,13560532
+Netherlands,NLD,1975,13663970
+Netherlands,NLD,1976,13760114
+Netherlands,NLD,1977,13855560
+Netherlands,NLD,1978,13949415
+Netherlands,NLD,1979,14040286
+Netherlands,NLD,1980,14130383
+Netherlands,NLD,1981,14217323
+Netherlands,NLD,1982,14296533
+Netherlands,NLD,1983,14369651
+Netherlands,NLD,1984,14441930
+Netherlands,NLD,1985,14515705
+Netherlands,NLD,1986,14592526
+Netherlands,NLD,1987,14675302
+Netherlands,NLD,1988,14762321
+Netherlands,NLD,1989,14850230
+Netherlands,NLD,1990,14944550
+Netherlands,NLD,1991,15046578
+Netherlands,NLD,1992,15150688
+Netherlands,NLD,1993,15251088
+Netherlands,NLD,1994,15349481
+Netherlands,NLD,1995,15446670
+Netherlands,NLD,1996,15538617
+Netherlands,NLD,1997,15629912
+Netherlands,NLD,1998,15722601
+Netherlands,NLD,1999,15812491
+Netherlands,NLD,2000,15899138
+Netherlands,NLD,2001,15981630
+Netherlands,NLD,2002,16057042
+Netherlands,NLD,2003,16127574
+Netherlands,NLD,2004,16196036
+Netherlands,NLD,2005,16261834
+Netherlands,NLD,2006,16325679
+Netherlands,NLD,2007,16391232
+Netherlands,NLD,2008,16460775
+Netherlands,NLD,2009,16536200
+Netherlands,NLD,2010,16617121
+Netherlands,NLD,2011,16701470
+Netherlands,NLD,2012,16785296
+Netherlands,NLD,2013,16867352
+Netherlands,NLD,2014,16954080
+Netherlands,NLD,2015,17041110
+Netherlands,NLD,2016,17124512
+Netherlands,NLD,2017,17207204
+Netherlands,NLD,2018,17286042
+Netherlands,NLD,2019,17363260
+Netherlands,NLD,2020,17434562
+Netherlands,NLD,2021,17501696
+Netherlands Antilles,ANT,200,0
+Netherlands Antilles,ANT,300,0
+Netherlands Antilles,ANT,400,0
+Netherlands Antilles,ANT,500,1
+Netherlands Antilles,ANT,600,3
+Netherlands Antilles,ANT,700,7
+Netherlands Antilles,ANT,800,15
+Netherlands Antilles,ANT,900,30
+Netherlands Antilles,ANT,1000,60
+Netherlands Antilles,ANT,1100,121
+Netherlands Antilles,ANT,1200,242
+Netherlands Antilles,ANT,1300,484
+Netherlands Antilles,ANT,1400,969
+Netherlands Antilles,ANT,1500,1939
+Netherlands Antilles,ANT,1600,3878
+Netherlands Antilles,ANT,1700,7757
+Netherlands Antilles,ANT,1710,8393
+Netherlands Antilles,ANT,1720,9081
+Netherlands Antilles,ANT,1730,9825
+Netherlands Antilles,ANT,1740,10631
+Netherlands Antilles,ANT,1750,11502
+Netherlands Antilles,ANT,1760,12445
+Netherlands Antilles,ANT,1770,13465
+Netherlands Antilles,ANT,1780,14569
+Netherlands Antilles,ANT,1790,15763
+Netherlands Antilles,ANT,1800,17055
+Netherlands Antilles,ANT,1810,18453
+Netherlands Antilles,ANT,1820,19068
+Netherlands Antilles,ANT,1830,19704
+Netherlands Antilles,ANT,1840,20361
+Netherlands Antilles,ANT,1850,21040
+Netherlands Antilles,ANT,1860,25266
+Netherlands Antilles,ANT,1870,27500
+Netherlands Antilles,ANT,1880,32100
+Netherlands Antilles,ANT,1890,35071
+Netherlands Antilles,ANT,1900,38500
+Netherlands Antilles,ANT,1910,41580
+Netherlands Antilles,ANT,1920,42875
+Netherlands Antilles,ANT,1930,51846
+Netherlands Antilles,ANT,1940,73986
+Netherlands Antilles,ANT,1950,173364
+Netherlands Antilles,ANT,1960,208884
+Netherlands Antilles,ANT,1970,246870
+Netherlands Antilles,ANT,1980,269526
+Netherlands Antilles,ANT,1990,295861
+Netherlands Antilles,ANT,2000,280398
+Netherlands Antilles,ANT,2001,283512
+Netherlands Antilles,ANT,2002,286625
+Netherlands Antilles,ANT,2003,289739
+Netherlands Antilles,ANT,2004,292853
+Netherlands Antilles,ANT,2005,295966
+Netherlands Antilles,ANT,2006,299080
+Netherlands Antilles,ANT,2007,302193
+Netherlands Antilles,ANT,2008,305307
+Netherlands Antilles,ANT,2009,308420
+Netherlands Antilles,ANT,2010,311534

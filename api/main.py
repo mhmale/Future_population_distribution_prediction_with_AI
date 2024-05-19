@@ -21,7 +21,7 @@ country_hash_map = {
     "EE" : "Estonia",
     "FI" : "Finland",
     "GB" : "United Kingdom",
-    "GE" : "Gerogia",
+    "GE" : "Georgia",
     "GR" : "Greece",
     "HR" : "Croatia",
     "HU" : "Hungary",
