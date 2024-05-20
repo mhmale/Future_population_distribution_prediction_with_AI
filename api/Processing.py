@@ -83,6 +83,7 @@ predicted = scaler_population.inverse_transform(predicted)
 # Gerçek ve tahmin edilen değerleri görselleştirme
 y_test_actual = scaler_population.inverse_transform(y_test.detach().numpy())
 
+
 plt.plot(years, population, label='Gerçek Nüfus')
 plt.scatter(X_test.view(-1).detach().numpy(), predicted, color='red', label='Tahmin Edilen Nüfus')
 plt.xlabel('Yıl')

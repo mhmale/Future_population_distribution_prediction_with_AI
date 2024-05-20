@@ -1,5 +1,5 @@
 body {
-    background-color: deepskyblue;
+    background-color: #b2add3!important;
 }
 .mapdiv {
     width: 85%;
@@ -10,4 +10,181 @@ body {
     stroke: white;
     stroke-width: 2px;
     transition: fill 0.3s;
+}
+#AL {
+    fill: #E41E20;
+}
+#AD {
+    fill: #FFCE00;
+}
+#AM {
+    fill: #D90012;
+}
+#AT {
+    fill: #ED2939;
+}
+#BE {
+    fill: #FFD700;
+}
+#BG {
+    fill: #D62612;
+}
+#BA {
+    fill: #002395;
+}
+#BY {
+    fill: #D52B1E;
+}
+#CH {
+    fill: #D52B1E;
+}
+#CZ {
+    fill: #11457E;
+}
+#DE {
+    fill: #000000;
+}
+#DK {
+    fill: #C60C30;
+}
+#EE {
+    fill: #0072CE;
+}
+#FI {
+    fill: #003580;
+}
+#GB {
+    fill: #00247D;
+}
+#GE {
+    fill: #FFFFFF;
+}
+#GR {
+    fill: #0D5EAF;
+}
+#HR {
+    fill: #FF0000;
+}
+#HU {
+    fill: #C8102E;
+}
+#IE {
+    fill: #169B62;
+}
+#IS {
+    fill: #003897;
+}
+#IT {
+    fill: #009246;
+}
+#LI {
+    fill: #00209F;
+}
+#LT {
+    fill: #FDB913;
+}
+#LU {
+    fill: #00A1DE;
+}
+#LV {
+    fill: #9E3039;
+}
+#MD {
+    fill: #0033A0;
+}
+#MK {
+    fill: #FF0000;
+}
+#ME {
+    fill: #C8102E;
+}
+#NO {
+    fill: #BA0C2F;
+}
+#PL {
+    fill: #DC143C;
+}
+#PT {
+    fill: #006600;
+}
+#RO {
+    fill: #002B7F;
+}
+#RS {
+    fill: #C6363C;
+}
+#SK {
+    fill: #0B4EA2;
+}
+#SI {
+    fill: #0C4076;
+}
+#SE {
+    fill: #005BAC;
+}
+#TR {
+    fill: #E30A17;
+}
+#UA {
+    fill: #FFD700;
+}
+#XK {
+    fill: #D1B96C;
+}
+#NL {
+    fill: #21468B;
+}
+#ES {
+    fill: #AA151B;
+}
+#FR {
+    fill: #0055A4;
+}
+#CY {
+    fill: #FFD800;
+}
+#countryInformation{
+
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#aboutCountry{
+    height: 580px;
+    width: 550px;
+    /* background-color: rgba(128, 128, 128, 0.9); */
+    background-color: rgba(200, 200, 200, 0.9); /* Açık Gri ve yarı saydam */
+
+    
+}
+.flex-btwn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.closeButton{
+    color: #B80000;
+}
+.closeButton:hover{
+    color: #7D0A0A;
+}
+.myTitle{
+    border-bottom: 1px solid black;
+}
+
+.passive{
+    opacity: 0;
+    z-index: -1;
+}
+.active{
+    opacity: 1;
+    z-index: 1;
+}
+.infoCountry{
+    border-bottom: 1px solid gray;
 }
